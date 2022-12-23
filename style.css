@@ -83,12 +83,13 @@ header.sticky {
    ************************/
 
 section {
-  padding: 160px 16% 90px;
+  /* border: 1px solid red; */
+  padding: 80px 16% 40px;
 }
 
 /*** Home Section CSS Styles ***/
 .home {
-  height: 100vh;
+  height: 80vh;
   width: 100%;
   position: relative;
   background: url(../img/background.jpg);
@@ -427,7 +428,7 @@ form textarea {
     padding: 8px 3%;
   }
   section {
-    padding: 130px 3% 60px;
+    padding: 70px 3% 20px;
   }
 }
 
