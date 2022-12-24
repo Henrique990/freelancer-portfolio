@@ -22,7 +22,13 @@
 Body {
   background-color: var(--bg-color);
   color: var(--text-color);
+  width: 100%;
 }
+
+a {
+  color: inherit;
+}
+
 
 /*** Header Section CSS Styles ***/
 header {
@@ -92,7 +98,7 @@ section {
   height: 80vh;
   width: 100%;
   position: relative;
-  background: url(../img/background.jpg);
+  background: url(./img/background-henrique01.png);
   background-size: cover;
   background-position: center;
   display: flex;
