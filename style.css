@@ -456,6 +456,9 @@ form textarea {
   .about-img {
     text-align: center;
   }
+  .about-img video {
+    width: 320px;
+  }
   .contact {
     grid-template-columns: 1fr;
   }
