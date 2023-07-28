@@ -88,7 +88,7 @@ header .sticky {
    ************************/
 
 section {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding: 80px 16% 40px;
   margin: 0;
 }
@@ -469,7 +469,7 @@ form textarea {
   }
 
   .img-responsive {
-    width: 35rem;
+    width: 30rem;
     z-index: 0;
     position: absolute;
     right: 0;
@@ -477,6 +477,9 @@ form textarea {
   }
 
 }
+
+
+
 
 @media (max-width: 1024px) {
   :root {
