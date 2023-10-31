@@ -591,7 +591,7 @@ form textarea {
   }
 
   :root {
-    --h1-font: 4.2rem;
+    --h1-font: 6.2rem;
   }
 
   .title-text {
@@ -648,7 +648,7 @@ form textarea {
   }
 
   :root {
-    --h1-font: 2.2rem;
+    --h1-font: 4.2rem;
   }
 
   .about-img video {
@@ -712,7 +712,7 @@ form textarea {
   }
 
   :root {
-    --h1-font: 2.2rem;
+    --h1-font: 3.2rem;
   }
 
   .about-img video {
@@ -777,7 +777,7 @@ form textarea {
   }
 
   :root {
-    --h1-font: 2.2rem;
+    --h1-font: 2.8rem;
   }
 
   .about-img video {
